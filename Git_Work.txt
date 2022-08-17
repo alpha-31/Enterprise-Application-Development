@@ -1,0 +1,7 @@
+Git is a version control system.
+We manage snapshots for our each code. A snapshot represents the the current state of the code in our repo.
+We do not need to remember the each line of code. Just use different versions of code and each snapshot helps us.
+
+Commands :
+=> git clone (Clones the repository from the remote link)
+=> git add (It is inside the staging area and )
