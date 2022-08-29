@@ -4,4 +4,8 @@ We do not need to remember the each line of code. Just use different versions of
 
 Commands :
 => git clone (Clones the repository from the remote link)
-=> git add (It is inside the staging area and )
+=> git add (It add files inside the staging area and with the particular file name 
+    we can add that file to the staging area. When we commit i.ie take the snapshot then it,
+    will commit only that file or changes.)
+=> git commit -m "Your Commit Message" (Add the staging untracked part to the local repository
+    )
