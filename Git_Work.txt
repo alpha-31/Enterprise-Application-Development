@@ -7,5 +7,23 @@ Commands :
 => git add (It add files inside the staging area and with the particular file name 
     we can add that file to the staging area. When we commit i.ie take the snapshot then it,
     will commit only that file or changes.)
-=> git commit -m "Your Commit Message" (Add the staging untracked part to the local repository
-    )
+=> git commit -m "Your Commit Message" (Add the staging untracked part to the local repository)
+
+=> get push (post all your local repo to your repository on github or any other web application)
+
+=> git pull()
+=> Note:- Merge Conflicts We can resolve this by owr own manually. Usually these changes occur
+   when teammates working on the same specific file and make almost similar changes.
+
+=> git log(tells u the details of the commit with its messages. Saves all the history 
+    just like maintaining the history)
+
+=> git reset(reset the work to our specified commit. We can also add the the reset to origin/master).
+
+=> git branch(Gives information about the all the branches of a repo).
+
+=> git merge(It merges any two branches just like the if we are working on a feature and then 
+    we need to fix some bugs on the main then here we will be having an issue.)
+
+=> git checkout (we Usually change the branch using this command but if we use it with 
+    -b then a new branch will be created.)
